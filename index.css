@@ -10,6 +10,7 @@ body{
 #text_info{
     font-family: 'Source Code Pro', monospace;
     padding-left: 20px;
+    padding-right: 20px;
     font-size: 20px;
 }
 #com_info{
@@ -22,6 +23,7 @@ body{
     border-style: dashed;
     border-color: #00D700;
     margin: 5px;
+    padding: 1px;
 }
 #head{
     display: flex;
