@@ -23,6 +23,7 @@ body{
     border-style: dashed;
     border-color: #00D700;
     margin: 5px;
+    padding: 1px;
 }
 #head{
     display: flex;
